@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\bin\Debug\PrimeMinisterDictionary.exe.config
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\bin\Debug\PrimeMinisterDictionary.exe
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\bin\Debug\PrimeMinisterDictionary.pdb
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\obj\Debug\PrimeMinisterDictionary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\obj\Debug\PrimeMinisterDictionary.exe
+C:\Users\DELL\source\repos\PrimeMinisterDictionary\PrimeMinisterDictionary\obj\Debug\PrimeMinisterDictionary.pdb
